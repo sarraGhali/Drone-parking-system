@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-25T17:29:53.244Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="h0pvnLFMWvww4sX9Lhs3" version="20.8.23" type="github" pages="7">
-  <diagram name="Page-1" id="UlxK9-UbBwzjphN7Lw5k">
-    <mxGraphModel dx="635" dy="342" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2023-02-25T17:31:07.627Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="ugtq_ZDwt1BwysdQj7VG" version="20.8.23" type="github" pages="7">
+  <diagram name="Usecase" id="UlxK9-UbBwzjphN7Lw5k">
+    <mxGraphModel dx="1059" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1268,7 +1268,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="-b9hsv-l26LZhcN5fKoT" name="Page-7">
+  <diagram id="-b9hsv-l26LZhcN5fKoT" name="Pending fines">
     <mxGraphModel dx="1134" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
